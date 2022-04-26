@@ -7,7 +7,7 @@ Sequencer amalgamation in Pure Data
 - Loadbang triggers a tempo of 105 milliseconds.
 - Loadbang turns on DSP, no need to do it manually.
 - The_big_one aka the start / stop button inside the main window is also able to control rhythm because the amount of steps the sequencers are at are not cleared once you press that button.
-- Specify a number inside rand_seq-limit_all in the main window, this will give every oscillator the sequencers possess a maximum interger which will then be sent inside randomizers which are used for randomized pitches. (NOTE: the unit is Hz)
+- Specify a number inside rand_seq-limit_all in the main window, this will give every oscillator the sequencers possess a maximum integer which will then be sent inside randomizers which are used for randomized pitches. (NOTE: the unit is Hz)
 - Simply click the randomize_sequencers button in the main window in order to bang the randomizers which are then fed to the sequencers.
 - Anything else would be self explanatory if you know Pure Data, have fun! 😄
 
