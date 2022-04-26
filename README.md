@@ -10,3 +10,4 @@ Sequencer amalgamation in Pure Data
 - Specify a number inside rand_seq-limit_all in the main window, this will give every oscillator the sequencers possess a maximum interger which will then be sent inside randomizers which are used for randomized pitches. (NOTE: the unit is Hz)
 - Simply click the randomize_sequencers button in the main window in order to bang the randomizers which are then fed to the sequencers.
 - Anything else would be self explanatory if you know Pure Data, have fun! 😄
+![img01](https://user-images.githubusercontent.com/103774736/165374350-29ebb403-94b1-4ef7-ab9f-3dbba88a06e3.PNG)
