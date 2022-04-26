@@ -19,6 +19,7 @@ Sequencer amalgamation in Pure Data
 - Step Skipper
 - Toggling Steps
 - Step Resetter (aka SeqResetter sub-patch)
+- Reverse Sequence Option
 - Automatic Step Changer
 - Automatic Octave Changer
 - Laser Beam Patch (SUPER COOOOL)
