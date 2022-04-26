@@ -9,6 +9,7 @@ Sequencer amalgamation in Pure Data
 - The_big_one aka the start / stop button inside the main window is also able to control rhythm because the amount of steps the sequencers are at are not cleared once you press that button.
 - Specify a number inside rand_seq-limit_all in the main window, this will give every oscillator the sequencers possess a maximum integer which will then be sent inside randomizers which are used for randomized pitches. (NOTE: the unit is Hz)
 - Simply click the randomize_sequencers button in the main window in order to bang the randomizers which are then fed to the sequencers.
+- This was done entirely in vanilla Pure Data, you do not need any externals in order for this to function.
 - Anything else would be self explanatory if you know Pure Data, have fun! 😄
 
 ![img01](https://user-images.githubusercontent.com/103774736/165374350-29ebb403-94b1-4ef7-ab9f-3dbba88a06e3.PNG)
