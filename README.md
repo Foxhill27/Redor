@@ -12,4 +12,15 @@ Sequencer amalgamation in Pure Data
 - This was done entirely in vanilla Pure Data (0.50-0), you do not need any externals in order for this to function.
 - Anything else would be self explanatory if you know Pure Data, have fun! 😄
 
+-- Features --
+
+- Octave Divider / Multiplier
+- Tempo Divider / Multiplier
+- Step Skipper
+- Toggling Steps
+- Step Resetter (aka SeqResetter sub-patch)
+- Automatic Step Changer
+- Automatic Octave Changer
+- Laser Beam Patch (SUPER COOOOL)
+
 ![img01](https://user-images.githubusercontent.com/103774736/165374350-29ebb403-94b1-4ef7-ab9f-3dbba88a06e3.PNG)
